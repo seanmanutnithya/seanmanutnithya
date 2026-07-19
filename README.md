@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:manutnithyasean@gmail.com"><img src="https://img.shields.io/badge/Email-manutnithyasean%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:manutnithyasean@gmail.com"><img src="https://img.shields.io/badge/Email-sean.manutnithya.cs%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>	sean.manutnithya.cs@gmail.com</a>
 </p>
 
 ---

@@ -20,59 +20,27 @@
 
 ---
 
-##  Tech Stack
+# 💫 About Me:
+I'm currently studying 
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=seanmanutnithya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=seanmanutnithya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=seanmanutnithya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=seanmanutnithya&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-### Concepts & Coursework
-![Data Structures](https://img.shields.io/badge/Data_Structures-6e40c9?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-6e40c9?style=flat)
-![OOP](https://img.shields.io/badge/OOP-6e40c9?style=flat)
-![File I/O](https://img.shields.io/badge/File_I%2FO-6e40c9?style=flat)
-![Linked Lists](https://img.shields.io/badge/Linked_Lists-6e40c9?style=flat)
-![Stacks & Queues](https://img.shields.io/badge/Stacks_%26_Queues-6e40c9?style=flat)
-![Recursion](https://img.shields.io/badge/Recursion-6e40c9?style=flat)
-![Sorting Algorithms](https://img.shields.io/badge/Sorting_Algorithms-6e40c9?style=flat)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=seanmanutnithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=seanmanutnithya&icon=0&color=1)](https://visitcount.itsvg.in)
 
-##  Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ C++ Data Structures](https://github.com/wee08/C_plus_plus) | Lab exercises covering recursion, linked lists, stacks, queues & sorting | C++ |
-| [ Payroll System](https://github.com/wee08/payroll_system) | Employee payroll system with CSV file I/O and linked list data structures | C++ |
-
----
-
-##  Currently Working On
-
--  Building a **C++ Payroll System** with linked lists, attendance tracking & CSV handling
--  Developing **React landing page** projects for my freelancing portfolio
--  Deepening knowledge in **Data Structures & Algorithms**
-
----
-
-<p align="center">
-  <em>"The best way to predict the future is to build it."</em>
-</p>
-
-<p align="center">
-   <strong>If you find my work helpful, consider giving it a star!</strong>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
